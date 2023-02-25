@@ -1,4 +1,4 @@
---restuarant owner
+--restaurant owner
 --5 tables
 --1 fact, 4x dimension
 --search google, how to add foreign key

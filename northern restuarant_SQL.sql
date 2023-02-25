@@ -7,6 +7,7 @@
 
 .mode markdown
 .header on 
+
 --(Fact) Orders
 CREATE TABLE orders (
   orderid INT PRIMARY KEY,

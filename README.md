@@ -4,6 +4,7 @@ Data Science Bootcamp by Datarockie #06
 
 We learn 10 sprints during 4 month program
   - Spreedsheets
+      - https://docs.google.com/spreadsheets/d/1fqs1rV8PXkrh5-8JVjQNGR5yN8z7ZRM-GElVF2sda6o/edit?usp=sharing
   - SQL Database
       - Create restaurant database to query analyze data and use subquery
       - https://replit.com/@kewalinkaewrin/SQLHWBatch6#northern%20restuarant.sql

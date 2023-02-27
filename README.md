@@ -21,3 +21,6 @@ We learn 10 sprints during 4 month program
     - Looker Studio https://lookerstudio.google.com/reporting/1dd680c6-a7f7-47b0-b14d-5090a8e5f6ab
     - Tableau Public 
   
+  Mini project: Web Scraping
+    - https://datalore.jetbrains.com/notebook/X9Crtxme8xb8VOcChEHgE7/U7bR5ztxOcMjJFKhyz9CBX/
+  

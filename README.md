@@ -6,10 +6,10 @@ We learn 10 sprints during 4 month program
   - Spreedsheets
       - https://docs.google.com/spreadsheets/d/1fqs1rV8PXkrh5-8JVjQNGR5yN8z7ZRM-GElVF2sda6o/edit?usp=sharing
   - SQL Database
-      - Create restaurant database to query analyze data and use subquery
+      - Create restaurant database to analyze data and use subquery
       - https://replit.com/@kewalinkaewrin/SQLHWBatch6#northern%20restuarant.sql
   - R Programming
-      - Create Pizza chatbot for customer to order pizza
+      - Create Pizza chatbot for customer 
       - https://replit.com/@kewalinkaewrin/batch6chatbotpizza#chatbot_pizza_with_R.r
   - Data Transformation
   - Data Visualization

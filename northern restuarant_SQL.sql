@@ -131,7 +131,7 @@ group by name
 order by total_ordered desc
 limit 1;
 
---(4) top payment method (with subquery)
+--(4) top payment method (with clause)
 with sub as
   (select *
   from orders as ord 
@@ -159,7 +159,7 @@ with sub2 as (
     ord.menuid,
     me.menu_list,
     me.price
-  from orders as ord,menu as me 
+  from orders as ord.menu as me 
   where ord.menuid = me.menuid 
 )
 select

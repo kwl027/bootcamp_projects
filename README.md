@@ -20,7 +20,7 @@ We learn 10 sprints during 4 month program
   - Inrto to 'classical' Machine Learning
   - Intro to Python
       - Rock-Paper-Scissors✊🏻🖐🏻✌🏻 with Python 
-      - https://datalore.jetbrains.com/notebook/X9Crtxme8xb8VOcChEHgE7/YdgwAudwNMFHhFLOINAIJk/
+        - https://datalore.jetbrains.com/notebook/X9Crtxme8xb8VOcChEHgE7/YdgwAudwNMFHhFLOINAIJk/
   - Essential python for data analyst
       - Use Pandas
   - Dashboard

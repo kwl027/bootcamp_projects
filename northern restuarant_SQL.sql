@@ -5,6 +5,7 @@
 --white SQL 3-5 queries analyze data
 --subquery/ with clause
 
+
 .mode markdown
 .header on 
 
